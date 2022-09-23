@@ -210,7 +210,7 @@ public class Method02 {
         }
     public static void gugudan(int dan){
         for (int i =1; 1 < 10; i++){
-            System.out.println(dan +);
+            System.out.println(dan +i);
         }
 
     }
